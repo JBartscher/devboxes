@@ -10,10 +10,10 @@
     tags:
     - zsh
     - shell
-  - role: tmux
-    tags:
-    - shell
-    - tmux
+#  - role: tmux
+#    tags:
+#    - shell
+#    - tmux
   - role: vim
     tags:
     - shell
@@ -82,35 +82,35 @@
     - nodejs
     - js
     - javascript
-  - role: k8s
-    tags:
-    - ops
-    - k8s
-    - kubernetes
-    - helm
-    - draft
-    - gcloud
-    - gke
-  - role: vscode
-    tags:
-    - dev
-    - vscode
-  - role: idea
-    tags:
-    - dev
-    - idea
-  - role: recording
-    tags:
-    - recording
-  - role: trivy
-    tags:
-    - trivy
-  - role: backup
-    tags:
-    - backup
-    - restic
-  - role: hid_apple
-    tags:
-    - apple
-    - keyboard
-    - hid_apple
+#  - role: k8s
+#    tags:
+#    - ops
+#    - k8s
+#    - kubernetes
+#    - helm
+#    - draft
+#    - gcloud
+#    - gke
+#  - role: vscode
+#    tags:
+#    - dev
+#    - vscode
+#  - role: idea
+#    tags:
+#    - dev
+#    - idea
+#  - role: recording
+#    tags:
+#    - recording
+#  - role: trivy
+#    tags:
+#    - trivy
+#  - role: backup
+#    tags:
+#    - backup
+#    - restic
+#  - role: hid_apple
+#    tags:
+#    - apple
+#    - keyboard
+#    - hid_apple

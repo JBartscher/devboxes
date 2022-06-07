@@ -1,5 +1,8 @@
 function editorconfig() {
 cat << EOF
+# Dont change color as root
+force_color_prompt=yes
+
 # EditorConfig is awesome: https://EditorConfig.org
 
 # top-most EditorConfig file
