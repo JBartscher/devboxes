@@ -33,23 +33,23 @@
     - shell
     - tools
     - cli-tools
-  - role: docker
-    tags:
-    - docker
-    - docker-compose
-    - docker-machine
-    - ops
-    - container
+#  - role: docker
+#    tags:
+#    - docker
+#    - docker-compose
+#    - docker-machine
+#    - ops
+#    - container
   - role: packer
     tags:
     - ops
     - tools
     - packer
-  - role: terraform
-    tags:
-    - ops
-    - tools
-    - terraform
+#  - role: terraform
+#    tags:
+#    - ops
+#    - tools
+#    - terraform
   - role: virtualbox
     tags:
     - ops

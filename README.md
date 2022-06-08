@@ -48,6 +48,7 @@ sudo add-apt-repository ppa:ansible/ansible
 sudo apt-get update
 sudo apt-get install ansible
 ```
+> On Ubuntu the vagrant and virtualbox install requires the boot option `secure boot` to be disabled.
 
 ### Manjaro
 

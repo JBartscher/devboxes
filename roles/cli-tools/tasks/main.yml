@@ -62,9 +62,9 @@
   include: cfssl.yml
   when: ansible_distribution == "Ubuntu" or ansible_distribution == "Archlinux"
 
-- name: Install gopass
-  include: gopass.yml
-  when: ansible_distribution == "Ubuntu" or ansible_distribution == "Archlinux"
+# - name: Install gopass
+#  include: gopass.yml
+#  when: ansible_distribution == "Ubuntu" or ansible_distribution == "Archlinux"
 
 - name: Install vegeta
   include: vegeta.yml
